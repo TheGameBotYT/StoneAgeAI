@@ -10,3 +10,8 @@ Basically, all the states need to be in the multi-index, with actions 0, 1, 2, 3
 
 Watch the accompanying video for an explanation of the game and two showcases of the app:
 https://www.youtube.com/watch?v=GlZGcviUsOY
+
+Packages used:
+- Numpy
+- Pandas
+- Kivy
